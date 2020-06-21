@@ -248,6 +248,16 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 
+#hero p {
+    color: #fff;
+  font-size: 26px;
+    font-family: "Poppins", sans-serif;
+    margin: 10px auto;
+    margin-bottom: 50px;
+    min-height: 150px;
+    max-width: 500px;
+}
+
 #hero p span {
   color: #fff;
   padding-bottom: 4px;
