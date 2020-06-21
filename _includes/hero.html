@@ -1,0 +1,8 @@
+﻿  <!-- ======= Home Section ======= -->
+  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+    <div class="hero-container" data-aos="fade-in">
+      <h1>{{ site.data.global.owner.first-name }} {{ site.data.global.owner.last-name }}</h1>
+      <p><span class="typed" data-typed-items="{% for role in site.data.global.owner.roles %} {{ role }} | {% endfor %}"></span></p>
+    </div>
+  </section>
+  <!-- End Hero -->

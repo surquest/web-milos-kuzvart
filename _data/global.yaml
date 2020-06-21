@@ -1,0 +1,81 @@
+﻿owner:
+  first-name: Miloš
+  last-name: Kužvart
+  facebook: https://www.facebook.com/milos.kuzvart
+  email: kuzvartm@seznam.cz
+  phone: +420 724 695 777
+  web: https://milos-kuzvart.cz
+  birth-date: 1960-11-20
+  degree: RNDr
+  address:
+    location: Praha 9 - Satalice
+    map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20462.728444784632!2d14.565627229386532!3d50.126696133633615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470bed71a3dc8de5%3A0x1716ed26bbb6c315!2s190%2015%20Satalice!5e0!3m2!1sen!2scz!4v1592684112069!5m2!1sen!2scz
+  roles:
+    - Výkonný ředitel České asociace oběhového hospodářství
+    - čestný člen sdružení obcí a měst České republiky Čechy nad zlato
+    - předseda komise životního prostředí Městské části Praha 9 – Satalice
+  current-role: Výkonný ředitel České asociace oběhového hospodářství
+  professional-experience:
+    - organization: České asociace oběhového hospodářství, z.s.
+      start: 2018
+      end:
+      experiences:
+        - Výkonný ředitel
+    - organization: SGS Cz
+      start: 2017
+      end: 2018
+      experiences:
+        - Projektový manažer druhotné energetické zdroje
+    - organization: Technický a zkušební ústav stavební Praha
+      start: 2012
+      end: 2017
+      experiences:
+        - Vedoucí ins. orgánu,
+        - Manažer rozvoje projektů
+    - organization: TÜV NORD Czech, s.r.o. Praha
+      start: 2006
+      end: 2012
+      experiences:
+        - Jednatel společnosti
+    - organization: Parlament ČR
+      start: 2002
+      end: 2006
+      experiences:
+        - Poslanec Sněmovny  Parlamentu ČR
+        - Místopředseda Výboru pro veřejnou správu, regionální rozvoj a životní prostředí
+        - Předseda  Podvýboru pro problematiku korupce
+    - organization: Ministerstvo životního prostředí České republiky
+      start: 1998
+      end: 2002
+      experiences:
+        - Ministr životního prostředí České republiky
+  education:
+    - school: Kurs Delegatury Evropské komise v Praze
+      start: 1995
+      end: 1995
+      details: Využití logických matic při plánování Programu PHARE.
+    - school: Open University Praha
+      start: 1995
+      end: 1995
+      details: jednosemestrální kurs ochrany životního prostředí.
+    - school: Kurs Institutu OSN pro vzdělávání a výzkum UNITAR
+      start: 1994
+      end: 1994
+      details: Řešení konfliktů při ochraně životního protředí
+    - school: Kurs Agentury ochrany životního prostředí USA (US EPA)
+      start: 1993
+      end: 1993
+      details: Hodnocení rizik
+    - school: Kurs Institutu OSN pro vzdělávání a výzkum UNITAR
+      start: 1991
+      end: 1991
+      details: Dálkový průzkum Země
+    - school: Karlova univerzita, Přírodovědecká fakulta, Praha
+      start: 1988
+      end: 1990
+      details: Postgraduální studium oboru Dálkový průzkum Země
+    - school: Karlova univerzita, Přírodovědecká fakulta, Praha
+      start:
+      end: 1987
+      details: titul promovaný geolog v oboru Geochemie, základní a ložisková geologie
+

@@ -1,0 +1,46 @@
+﻿    <!-- ======= Resume Section ======= -->
+    <section id="resume" class="resume">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Životopis</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6" data-aos="fade-up">
+
+            <h3 class="resume-title">Vzdělání</h3>
+                {% for item in site.data.global.owner.education %}
+                  <div class="resume-item">
+                    <h4>{{ item.school }}</h4>
+                    <h5>{{ item.start }} - {{ item.end }}</h5>
+                    <p>{{ item.details }}</p>
+                  </div>
+                {% endfor %}
+          </div>
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <h3 class="resume-title">Praxe</h3>
+            {% for item in site.data.global.owner.professional-experience %}
+                  <div class="resume-item">
+                  <h4>{{ item.organization }}</h4>
+                  <h5>{{ item.start }} - {{ item.end }}</h5>
+                  <ul>
+                      {% for experience in item.experiences %}
+                        <li>{{ experience }}</li>
+                      {% endfor %}
+                  </ul>
+                  </div>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="row">
+              <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
+                  <p>Kompletní životopis je ke stažení: <a href="assets/uploads/zivotopis.doc">ZDE</a>.</p>
+              </div>
+        </div>
+
+      </div>
+
+
+    </section><!-- End Resume Section -->
