@@ -2,7 +2,7 @@
 title: "Evropské vodní cesty, resp. vodní cesta Dunaj - Odra - Labe"
 details: Rezoluce, přijatá stálou komisí Parlamentního shromáždění Rady Evropy 
 year: 2005
-attachments: assets/uploads/prague-business-journal-2013.pdf
+attachments: assets/uploads/european-watterways.pdf
 tag: posts
 ---
 
